@@ -24,7 +24,7 @@ Automatically detect spam emails using a machine learning model trained on label
 
 ## 🖼 Preview
 
-![App Preview](https://github.com/user-attachments/assets/42ab8b7d-c331-4f1e-a1ef-5ca69147fec7) <!-- Replace with your own screenshot or leave it for GitHub preview -->
+![App Preview](https://github.com/user-attachments/assets/bdc32613-d642-40fc-903b-86dbb5430673) <!-- Replace with your own screenshot or leave it for GitHub preview -->
 
 ---
 
